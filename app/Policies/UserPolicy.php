@@ -36,7 +36,7 @@ class UserPolicy
      */
     public function update(User $user = null, User $model): bool
     {
-        return $user->id === $model->id;
+        return true;
     }
 
     /**
@@ -44,7 +44,7 @@ class UserPolicy
      */
     public function delete(User $user = null, User $model): bool
     {
-        return $user->id === $model->id;
+        return true;
     }
 
     /**
@@ -52,7 +52,7 @@ class UserPolicy
      */
     public function restore(User $user = null, User $model): bool
     {
-        return $user->id === $model->id;
+        return true;
     }
 
     /**
@@ -60,6 +60,6 @@ class UserPolicy
      */
     public function forceDelete(User $user = null, User $model): bool
     {
-        return $user->id === $model->id;
+        return true;
     }
 }
