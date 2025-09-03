@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-restify": {
+            "command": "php",
+            "args": [
+                "artisan",
+                "restify-boost:start"
+            ]
+        }
+    }
+}
