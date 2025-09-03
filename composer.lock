@@ -816,16 +816,16 @@
         },
         {
             "name": "binaryk/laravel-restify",
-            "version": "10.1.11",
+            "version": "10.1.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/BinarCode/laravel-restify.git",
-                "reference": "ed7e75c54406f9a0b9b1bf410dda9920a3d77afe"
+                "reference": "8eef6a67376cb9f04c712374beed47faa8eb1b19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BinarCode/laravel-restify/zipball/ed7e75c54406f9a0b9b1bf410dda9920a3d77afe",
-                "reference": "ed7e75c54406f9a0b9b1bf410dda9920a3d77afe",
+                "url": "https://api.github.com/repos/BinarCode/laravel-restify/zipball/8eef6a67376cb9f04c712374beed47faa8eb1b19",
+                "reference": "8eef6a67376cb9f04c712374beed47faa8eb1b19",
                 "shasum": ""
             },
             "require": {
@@ -894,9 +894,9 @@
             ],
             "support": {
                 "issues": "https://github.com/BinarCode/laravel-restify/issues",
-                "source": "https://github.com/BinarCode/laravel-restify/tree/10.1.11"
+                "source": "https://github.com/BinarCode/laravel-restify/tree/10.1.12"
             },
-            "time": "2025-09-01T10:26:08+00:00"
+            "time": "2025-09-03T09:47:37+00:00"
         },
         {
             "name": "brick/math",
