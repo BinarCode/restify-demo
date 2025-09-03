@@ -53,22 +53,22 @@ abstract class Repository extends RestifyRepository
 
     public function mcpAllowsUpdate(): bool
     {
-        return true;
+        return false;
     }
 
     public function mcpAllowsDelete(): bool
     {
-        return true;
+        return false;
     }
 
     public function mcpAllowsActions(): bool
     {
-        return true;
+        return false;
     }
 
     public function mcpAllowsGetters(): bool
     {
-        return true;
+        return false;
     }
 
 }
