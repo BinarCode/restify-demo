@@ -87,7 +87,7 @@ GET /mcp/restify
 ## Learn More
 
 - **[Laravel Restify](https://github.com/BinarCode/laravel-restify)** - Main package repository
-- **[Documentation](https://restify.binarcode.com)** - Complete guides and API reference
+- **[Documentation](https://laravel-restify.com)** - Complete guides and API reference
 - **[BinarCode](https://binarcode.com)** - The company behind Laravel Restify
 - **[Restify Templates](https://restifytemplates.com)** - Production-ready starter kits
 
